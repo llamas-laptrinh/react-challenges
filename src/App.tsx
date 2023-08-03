@@ -1,11 +1,11 @@
 import './App.css'
-import ScoreKeeper from "./Solutions/ScoreKeeper/index.tsx";
+import ColorPicker from './Solutions/ColorPicker'
 
 function App() {
 
   return (
     <>
-      <ScoreKeeper></ScoreKeeper>
+      <ColorPicker></ColorPicker>
     </>
   )
 }
