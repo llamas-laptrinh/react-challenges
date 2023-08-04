@@ -1,11 +1,11 @@
 import './App.css'
-import ColorPicker from './Solutions/ColorPicker'
+import SimpleCaculator from './Solutions/SimpleCaculator'
 
 function App() {
 
   return (
     <>
-      <ColorPicker></ColorPicker>
+      <SimpleCaculator></SimpleCaculator>
     </>
   )
 }
