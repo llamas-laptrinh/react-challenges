@@ -1,11 +1,11 @@
 import './App.css'
-import SimpleCaculator from './Solutions/SimpleCaculator'
+import ScoreKeeper from './Solutions/ScoreKeeper'
 
 function App() {
 
   return (
     <>
-      <SimpleCaculator></SimpleCaculator>
+      <ScoreKeeper></ScoreKeeper>
     </>
   )
 }
