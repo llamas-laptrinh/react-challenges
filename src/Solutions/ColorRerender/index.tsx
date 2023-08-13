@@ -20,4 +20,8 @@ export default function ColorRender() {
       <ColorsRender onChangeBg={onChangeBg} colors={dummyColors} />
     </div>
   );
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 75ab1fa96096ce21bf88f12f0d921c2e2a428a14

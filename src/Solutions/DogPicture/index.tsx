@@ -17,9 +17,6 @@ const Dog = [
 export default function DogPicture() {
   const [dogs,setDogs] = useState(Dog);
   const [detailsDog,setDetailDog] = useState("");
-
-
-  
   return (
     <div >
       <SearchBar dogs={Dog} setDogs={setDogs}/>
