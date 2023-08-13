@@ -1,14 +1,14 @@
 
 import './App.css'
-import DogPicture from './Solutions/DogPicture'
-import SimpleCaculator from './Solutions/SimpleCaculator'
-
+import ScoreKeeper from './Solutions/ScoreKeeper'
 
 function App() {
+
   return (
     <>
-     <SimpleCaculator  />
+      <ScoreKeeper></ScoreKeeper>
     </>
+
   )
 }
 
